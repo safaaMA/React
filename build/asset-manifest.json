@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/safaaMA/React/static/css/main.a8270348.css",
+    "main.js": "/safaaMA/React/static/js/main.56c27d83.js",
+    "static/media/pro00.jpg": "/safaaMA/React/static/media/pro00.0322c1acb3dd30352da4.jpg",
+    "static/media/pro04.jpg": "/safaaMA/React/static/media/pro04.98b9a3f1625c6df8daac.jpg",
+    "static/media/pro06.jpg": "/safaaMA/React/static/media/pro06.a2202ecbc7368a608c8f.jpg",
+    "static/media/B03.jpg": "/safaaMA/React/static/media/B03.c15c3f6ab99191025703.jpg",
+    "static/media/pro05.jpg": "/safaaMA/React/static/media/pro05.39114af21e4a71066f64.jpg",
+    "static/media/pro02.jpg": "/safaaMA/React/static/media/pro02.113986691a560cf05561.jpg",
+    "static/media/pro07.jpg": "/safaaMA/React/static/media/pro07.b266de4644226753f955.jpg",
+    "static/media/B01.jpg": "/safaaMA/React/static/media/B01.594eaab8330a26f7a3cb.jpg",
+    "static/media/pro03.jpg": "/safaaMA/React/static/media/pro03.7a999cf938a7d4af54d9.jpg",
+    "static/media/B00.jpg": "/safaaMA/React/static/media/B00.e744c22dfddc31a426b5.jpg",
+    "static/media/00.png": "/safaaMA/React/static/media/00.48596ec457a49d62fc54.png",
+    "static/media/01.png": "/safaaMA/React/static/media/01.969fbb5eec2baf900745.png",
+    "static/media/B02.jpg": "/safaaMA/React/static/media/B02.0b5438202adcd665afae.jpg",
+    "static/media/pro01.jpg": "/safaaMA/React/static/media/pro01.46ccfb31f4fc7903cc49.jpg",
+    "static/media/02.png": "/safaaMA/React/static/media/02.1bb9f9061fb112cc015d.png",
+    "static/media/Homepro01.png": "/safaaMA/React/static/media/Homepro01.73c078b50690ccfa3250.png",
+    "static/media/Homepro00.png": "/safaaMA/React/static/media/Homepro00.e454e4a67a44abda7e2e.png",
+    "index.html": "/safaaMA/React/index.html",
+    "main.a8270348.css.map": "/safaaMA/React/static/css/main.a8270348.css.map",
+    "main.56c27d83.js.map": "/safaaMA/React/static/js/main.56c27d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8270348.css",
+    "static/js/main.56c27d83.js"
+  ]
+}
